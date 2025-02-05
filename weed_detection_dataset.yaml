@@ -1,0 +1,8 @@
+
+    path: .
+    train: labeled/images
+    val: test/images
+    
+    nc: 2  # Number of classes
+    names: ['weed', 'crop']
+    

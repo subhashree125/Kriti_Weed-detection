@@ -1,0 +1,6 @@
+
+path: ./combined_dataset
+train: images
+val: images
+nc: 2  # Number of classes
+names: ['weed', 'crop']  # Class names
