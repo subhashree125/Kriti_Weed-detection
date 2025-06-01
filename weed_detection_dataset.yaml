@@ -1,4 +1,3 @@
-
     path: .
     train: labeled/images
     val: test/images
