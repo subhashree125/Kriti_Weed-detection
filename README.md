@@ -135,7 +135,7 @@ results = model.predict(source='datasets/test/images', save=True, save_txt=True,
 
 ## 📄 Project Report
 
-[📝 Download the full project report (PDF)](./Project-Report_-Semi-Supervised-Sesame-Crop-and-Weed-Detection-using-YOLOv8-(1).pdf)
+[📝 Download the full project report (PDF)](./Project Report_ Semi-Supervised Sesame Crop and Weed Detection using YOLOv8 (1).pdf).
 
 Or [view it in your browser](./Project-Report_-Semi-Supervised-Sesame-Crop-and-Weed-Detection-using-YOLOv8-1.pdf).
 
