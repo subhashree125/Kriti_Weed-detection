@@ -138,8 +138,6 @@ results = model.predict(source='datasets/test/images', save=True, save_txt=True,
 [📝 View the full project report (PDF)](./Project%20Report_%20Semi-Supervised%20Sesame%20Crop%20and%20Weed%20Detection%20using%20YOLOv8%20%281%29.pdf)
 
 
-Or [view it in your browser](.[/Project-Report_-Semi-Supervised-Sesame-Crop-and-Weed-Detection-using-YOLOv8-1.pdf](https://github.com/subhashree125/Kriti_Weed-detection/blob/main/Project%20Report_%20Semi-Supervised%20Sesame%20Crop%20and%20Weed%20Detection%20using%20YOLOv8%20(1).pdf)).
-
 ---
 
 ## 🙏 Acknowledgements
